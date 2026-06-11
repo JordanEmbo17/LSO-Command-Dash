@@ -1,0 +1,6 @@
+{
+  "name": "Shopify LSO Dashboard",
+  "description": "Unified dashboard for Live Site Operations detailing on-duty pager rotations, real-time core, storefront-renderer, and checkout-web deployments, active incidents tracking, and AI-powered CI pipeline troubleshooting diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
